@@ -56,6 +56,8 @@ git remote add origin https://github.com/danielgilcastro/aula_de_git.git   !!!!!
 git remote (para verificar)
 git remote -v (para verificar de forma detalhada)
 
+git branch -M main  //para acionar o origin
+
 
 o mesmo para criar um branch novo mas precisa esta em um igual no local
 
